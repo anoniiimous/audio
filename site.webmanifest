@@ -1,1 +1,12 @@
-{}
+{
+  "description": "Piano riffs, guitar chords, synths & 808s, snares & cymbals over instrumentals.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "570x570",
+      "type": "image/png"
+    }
+  ],
+  "name": "banonBEATS",
+  "short_name": "banonbeats"
+}
